@@ -59,3 +59,7 @@ li {
     font-weight: bold;
     color: #2c3e50;
 }
+.date {
+    float: right;
+    color: #888;
+}
