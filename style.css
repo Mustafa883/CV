@@ -63,3 +63,7 @@ li {
     float: right;
     color: #888;
 }
+.skills-description {
+    font-weight: bold;
+    color: #2c3e50;
+}
